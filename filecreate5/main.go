@@ -11,7 +11,7 @@ import (
 )
 
 func main() {
-	err := CreateFile(5)
+	err := createFile(5)
 	if err != nil {
 		fmt.Println(err)
 		os.Exit(1)
@@ -19,7 +19,7 @@ func main() {
 
 }
 
-func CreateFile(i int) (retErr error) {
+func createFile(i int) (retErr error) {
 
 	for i := 0; i < 5; i++ {
 
