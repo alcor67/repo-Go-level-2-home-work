@@ -1,0 +1,2 @@
+http://127.0.0.1:6060/pkg/github.com/alcor67/repo-Go-level-2-home-work/projectcalculator/doc/
+http://127.0.0.1:6060/src/github.com/alcor67/repo-Go-level-2-home-work/projectcalculator/
